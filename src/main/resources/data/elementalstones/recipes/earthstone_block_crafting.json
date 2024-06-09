@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "elementalstones:earth_stone"
+        }
+    },
+    "result": {
+        "item": "elementalstones:earthstone_block",
+        "count": 1
+    }
+}

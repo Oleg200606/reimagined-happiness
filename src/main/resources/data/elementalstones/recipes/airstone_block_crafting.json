@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "elementalstones:air_stone"
+        }
+    },
+    "result": {
+        "item": "elementalstones:airstone_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "elementalstones:fire_stone"
+        }
+    },
+    "result": {
+        "item": "elementalstones:firestone_block",
+        "count": 1
+    }
+}

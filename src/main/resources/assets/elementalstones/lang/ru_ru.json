@@ -1,0 +1,13 @@
+{
+  "item.elementalstones.fire_stone": "Огненный камень",
+  "item.elementalstones.water_stone": "Водный камень",
+  "item.elementalstones.air_stone": "Воздушный камень",
+  "item.elementalstones.earth_stone": "Земляной камень",
+  "itemGroup.Elemental Stones Tab": "Стихийные камни",
+
+  "block.elementalstones.firestone_block": "Огненный блок",
+  "block.elementalstones.airstone_block": "Воздушный блок",
+  "block.elementalstones.waterstone_block": "Водяной блок",
+  "block.elementalstones.earthstone_block": "Земляной блок"
+
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "elementalstones:block/earthstone_block"
+  }
+}
